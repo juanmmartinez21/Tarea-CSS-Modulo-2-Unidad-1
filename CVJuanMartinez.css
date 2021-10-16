@@ -1,0 +1,49 @@
+/* font-family: 'IM Fell English SC', serif; */
+.titulo1{
+    text-align: center;
+    background: #7000ff;
+    background: linear-gradient(154deg,#7000ff 10%, #ffc700 60%);
+    background: -webkit-linear-gradient(154deg,#7000ff 10%, #ffc700 60%);
+    background: -moz-linear-gradient(154deg,#7000ff 10%, #ffc700 60%);
+    padding: 10px;
+    border-radius: 0 0 20px 20px;
+    border: brown solid 4px;
+    margin: auto;
+    width: 25%;
+    margin-bottom: 30px;
+    font-family: 'IM Fell English SC', serif;
+    /* height: fit-content; */
+}
+
+img{
+    margin-left: 20%;
+    border: brown solid 3px;
+}
+
+h2{
+    background: #7000ff;
+    background: linear-gradient(154deg,#7000ff 10%, #ffc700 60%);
+    background: -webkit-linear-gradient(154deg,#7000ff 10%, #ffc700 60%);
+    background: -moz-linear-gradient(154deg,#7000ff 10%, #ffc700 60%);
+    padding: 15px;
+    width: fit-content;
+    border: brown solid 3px;
+    border-radius: 20px 20px 0 20px;
+    font-family: 'IM Fell English SC', serif;
+}
+p{
+    font-family: 'IM Fell English SC', serif;
+    font-weight: 1000;
+}
+li{
+    font-family: 'IM Fell English SC', serif;
+    font-weight: 1000;
+}
+.A{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    text-transform: uppercase;
+}
+.iconos{
+    font-size: 30px;
+}
